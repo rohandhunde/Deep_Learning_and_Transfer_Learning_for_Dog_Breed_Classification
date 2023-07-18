@@ -1,0 +1,2 @@
+# Deep_Learning_and_Transfer_Learning_for_Dog_Breed_Classification
+Unleashing the Power of AI: Achieving Perfect Dog Breed Classification with Deep Learning and Transfer Learning! Our project combines the magic of convolutional neural networks (CNNs) and the incredible TF2.0 Saved Model (v5) to flawlessly identify dog breeds. By tapping into the potential of pre-trained models and transfer learning.
